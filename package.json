@@ -9,11 +9,19 @@
     "@chakra-ui/react": "1.6.5",
     "@emotion/react": "11.4.0",
     "@emotion/styled": "11.3.0",
+    "@types/node": "16.11.24",
+    "color-interpolate": "1.0.5",
     "framer-motion": "4.1.17",
-    "react": "17.0.0",
+    "konva": "8.3.2",
+    "moment": "2.29.1",
+    "react": "17.0.2",
+    "react-div-100vh": "0.7.0",
     "react-dom": "17.0.0",
     "react-icons": "3.11.0",
-    "react-scripts": "3.3.0"
+    "react-konva": "17.0.2-5",
+    "react-scripts": "3.3.0",
+    "use-sound": "4.0.1",
+    "usehooks-ts": "2.3.0"
   },
   "devDependencies": {
     "@types/react": "16.9.19",
